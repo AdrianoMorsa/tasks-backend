@@ -21,7 +21,7 @@ pipeline {
                 }
             }
         }
-                stage ('Quality Gate') {
+        stage ('Quality Gate') {
             steps {
                 sleep(5)
                 timeout(time: 1, unit: 'MINUTES') {
@@ -37,6 +37,4 @@ pipeline {
     }
 }
 
-
-//deploy adapters: [tomcat8(credentialsId: 'Tom', path: '', url: 'http://localhost:8001/')], contextPath: 'task-backend', war: 'target/tasks-backend.war'
 
