@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.ce.wcaquino.taskbackend.controller.TaskControllerTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.093 s - in br.ce.wcaquino.taskbackend.controller.TaskControllerTest

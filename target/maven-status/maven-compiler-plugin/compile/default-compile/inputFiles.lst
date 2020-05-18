@@ -1,0 +1,7 @@
+/Users/morsa/Devops/tasks-backend/src/main/java/br/ce/wcaquino/taskbackend/TaskBackendApplication.java
+/Users/morsa/Devops/tasks-backend/src/main/java/br/ce/wcaquino/taskbackend/utils/DateUtils.java
+/Users/morsa/Devops/tasks-backend/src/main/java/br/ce/wcaquino/taskbackend/controller/TaskController.java
+/Users/morsa/Devops/tasks-backend/src/main/java/br/ce/wcaquino/taskbackend/utils/ValidationException.java
+/Users/morsa/Devops/tasks-backend/src/main/java/br/ce/wcaquino/taskbackend/model/Task.java
+/Users/morsa/Devops/tasks-backend/src/main/java/br/ce/wcaquino/taskbackend/controller/RootController.java
+/Users/morsa/Devops/tasks-backend/src/main/java/br/ce/wcaquino/taskbackend/repo/TaskRepo.java

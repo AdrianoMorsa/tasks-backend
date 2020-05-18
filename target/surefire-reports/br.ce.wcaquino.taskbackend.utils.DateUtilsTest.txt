@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.ce.wcaquino.taskbackend.utils.DateUtilsTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.336 s - in br.ce.wcaquino.taskbackend.utils.DateUtilsTest

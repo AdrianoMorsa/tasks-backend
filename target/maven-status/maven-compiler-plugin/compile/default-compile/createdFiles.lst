@@ -1,0 +1,7 @@
+br/ce/wcaquino/taskbackend/repo/TaskRepo.class
+br/ce/wcaquino/taskbackend/utils/DateUtils.class
+br/ce/wcaquino/taskbackend/utils/ValidationException.class
+br/ce/wcaquino/taskbackend/TaskBackendApplication.class
+br/ce/wcaquino/taskbackend/controller/TaskController.class
+br/ce/wcaquino/taskbackend/model/Task.class
+br/ce/wcaquino/taskbackend/controller/RootController.class
